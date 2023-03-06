@@ -1,6 +1,6 @@
-# rsschool-cv
-
 ## Indira Moldakhmetova
+### Junior Frontend Developer
+******
 
 ### Contacts
 * Location: Kazakhstan, Almaty
