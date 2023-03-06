@@ -54,7 +54,7 @@ var lengthOfLongestSubstring = function(s) {
   + Web development using Odoo ERP and CRM system
   + Writing own modules in Python
   + Support and correction of existing modules
-************
+*********
 * **Frontend web developer (angular) - Kaspi Travel, Almaty, June 2022 - present**
   + Setting up functionality and writing scripts
   + Creating interfaces from scratch
