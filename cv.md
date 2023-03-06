@@ -6,8 +6,8 @@
 * Location: Kazakhstan, Almaty
 * Phone: +7-747-146-10-40
 * Email: moldakhmetovai@mail.ru
-* Telegram: https://t.me/heyitsindira
-* GitHub: https://github.com/i-n-d-i
+* [Telegram](https://t.me/heyitsindira)
+* [GitHub](https://github.com/i-n-d-i)
 
 ### About Me
 I graduated from Moscow State University with a bachelor degree in computational mathematics and cybernetics. Now I'm working as a frontend developer at company named KaspiTravel. We are developing the top-1 application in Kazakhstan for buying air and train tickets. Currently I am working with JavaScript, Typescript and using the Angular framework. I love solving problems and learning new things. Now I want to learn the React and Vue frameworks and use them with confidence. I like to set myself challenges and I always try to fulfill them.
@@ -54,7 +54,6 @@ var lengthOfLongestSubstring = function(s) {
   + Web development using Odoo ERP and CRM system
   + Writing own modules in Python
   + Support and correction of existing modules
-*********
 * **Frontend web developer (angular) - Kaspi Travel, Almaty, June 2022 - present**
   + Setting up functionality and writing scripts
   + Creating interfaces from scratch
