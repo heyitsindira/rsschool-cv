@@ -1,2 +1,2 @@
 # rsschool-cv
-Task #1 - CV (markdown)
+https://heyitsindira.github.io/rsschool-cv/
